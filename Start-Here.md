@@ -9,4 +9,5 @@ If you are interested in Cardano but find yourself asking any of the following q
 - What is IOHK, Emurgo? 
 - What is Deadalus and Yoroi? How do they differ?
 - What's Shelley? and why does everyone say 'When Shelley?'
+- What is staking ADA? 
 
